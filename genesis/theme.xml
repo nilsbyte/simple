@@ -5,11 +5,11 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./art/megadrive_art_blur.jpg</path>
+			<path>./art/gen_art_blur.jpg</path>
 		</image>
 
 		<image name="logo">
-			<path>./art/megadrive.svg</path>
+			<path>./art/gen.svg</path>
         </image>
 		
 		<helpsystem name="help">
@@ -33,7 +33,7 @@
 		</text>
 		
 		<text name="system_name_2" extra="true">
-			<text>Mega Drive</text>
+			<text>Genesis</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.07</pos>
@@ -44,7 +44,7 @@
 		</text>
 
 		<image name="logo">
-			<path>./art/megadrive.svg</path>
+			<path>./art/gen.svg</path>
 			<pos>0.025 0.079</pos>
 			<maxSize>0.45 0.1</maxSize>
 			<origin>0 0.5</origin>

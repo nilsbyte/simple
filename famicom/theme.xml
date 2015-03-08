@@ -5,16 +5,16 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./art/megadrive_art_blur.jpg</path>
+			<path>./art/famicom_art_blur.jpg</path>
 		</image>
 
 		<image name="logo">
-			<path>./art/megadrive.svg</path>
+			<path>./art/famicom.svg</path>
         </image>
 		
 		<helpsystem name="help">
-			<textColor>00000088</textColor>
-			<iconColor>00000088</iconColor>
+			<textColor>ffffff88</textColor>
+			<iconColor>ffffff88</iconColor>
 		</helpsystem>
 		
 	</view>
@@ -22,7 +22,7 @@
 	<view name="basic, detailed">
 	
 		<text name="system_name_1" extra="true">
-			<text>SEGA</text>
+			<text>Nintendo</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.01</pos>
@@ -33,7 +33,7 @@
 		</text>
 		
 		<text name="system_name_2" extra="true">
-			<text>Mega Drive</text>
+			<text>Family Computer</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.07</pos>
@@ -44,7 +44,7 @@
 		</text>
 
 		<image name="logo">
-			<path>./art/megadrive.svg</path>
+			<path>./art/famicom.svg</path>
 			<pos>0.025 0.079</pos>
 			<maxSize>0.45 0.1</maxSize>
 			<origin>0 0.5</origin>

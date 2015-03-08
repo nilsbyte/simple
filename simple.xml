@@ -1,6 +1,6 @@
 <!--
 theme name:		simple
-version:		1.3
+version:		1.4
 author:			nils bonenberger
 email:			nilsbyte@nilsbyte.de
 website:		www.nilsbyte.de
@@ -81,8 +81,35 @@ license:		creative commons CC-BY-NC-SA
 			<fontPath>./art/OPENSANS.TTF</fontPath>
 			<fontSize>0.03</fontSize>
 			<forceUppercase>1</forceUppercase>
+			<!-- <scrollSound>./art/sound.wav</scrollSound> -->
 		</textlist>
 		
+		<!-- Sounds
+		<sound name="systemscroll">
+			<path>./art/systemscroll.wav</path>
+		</sound>
+		
+		<sound name="systemselect">
+			<path>./art/systemscroll.wav</path>
+		</sound>
+		
+		<sound name="listscroll">
+			<path>./art/listscroll.wav</path>
+		</sound>
+		
+		<sound name="back">
+			<path>./art/back.wav</path>
+		</sound>
+		
+		<sound name="launch">
+			<path>./art/launch.wav</path>
+		</sound>
+		
+		<sound name="menuopen">
+			<path>./art/menu.wav</path>
+		</sound>
+		 -->
+		 
 	</view>
 
 	<view name="basic">

@@ -1,4 +1,4 @@
-Theme 'simple' v1.3 - 11-29-2014
+Theme 'simple' v1.4 - 03-08-2015
 (c) Nils Bonenberger - nilsbyte@nilsbyte.de - http://blog.nilsbyte.de/
 For use with EmulationStation (http://www.emulationstation.org/)
 
@@ -6,6 +6,24 @@ For use with EmulationStation (http://www.emulationstation.org/)
 Changelog
 =========
 
+03-08-2015
+v1.4 update
+- added systems:
+  SNK Neo Geo CD
+  Magnavox Odyssey 2
+  GCE Vectrex
+  Nintendo Virtual Boy
+  Bandai WonderSwan
+  Bandai WonderSwan Color
+  Atari Lynx
+  Nintendo Family Computer
+  Nintendo Super Famicom
+  SEGA Genesis
+
+- updated systems:
+  SEGA Mega Drive (showed Genesis logo and text)
+  MSX (wrong path to SVG)
+  
 11-29-2014
 v1.3 update
 - added systems:

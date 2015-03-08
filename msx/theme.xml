@@ -33,7 +33,7 @@
 		</text>
 
 		<image name="logo">
-			<path>./art/ibmpc.svg</path>
+			<path>./art/msx.svg</path>
 			<pos>0.025 0.079</pos>
 			<maxSize>0.47 0.1</maxSize>
 			<origin>0 0.5</origin>
