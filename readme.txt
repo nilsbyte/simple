@@ -52,9 +52,7 @@ v1.0 Initial version
 Missing systems in the theme
 ============================
 
-atarilynx
-wonderswan
-wonderswancolor
+-
 
 No emulation possible (no theme):
 
