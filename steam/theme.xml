@@ -5,16 +5,16 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./art/ps3_art_blur.jpg</path>
+			<path>./art/steam_art_blur.jpg</path>
 		</image>
 
 		<image name="logo">
-			<path>./art/ps3.svg</path>
+			<path>./art/steam.svg</path>
         </image>
 
 		<helpsystem name="help">
-			<textColor>00000088</textColor>
-			<iconColor>00000088</iconColor>
+			<textColor>ffffff88</textColor>
+			<iconColor>ffffff88</iconColor>
 		</helpsystem>
 
 	</view>
@@ -22,21 +22,10 @@
 	<view name="basic, detailed">
 
 		<text name="system_name_1" extra="true">
-			<text>Sony</text>
+			<text>Steam</text>
 			<forceUppercase>1</forceUppercase>
-			<size>0.45 0.08</size>
-			<pos>0.527 0.01</pos>
-			<color>7b7d7f</color>
-			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
-			<fontSize>0.055</fontSize>
-			<alignment>right</alignment>
-		</text>
-
-		<text name="system_name_2" extra="true">
-			<text>PlayStation 3</text>
-			<forceUppercase>1</forceUppercase>
-			<size>0.45 0.08</size>
-			<pos>0.527 0.07</pos>
+			<size>0.45 0.16</size>
+			<pos>0.527 0</pos>
 			<color>7b7d7f</color>
 			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
 			<fontSize>0.055</fontSize>
@@ -44,7 +33,7 @@
 		</text>
 
 		<image name="logo">
-			<path>./art/ps3.svg</path>
+			<path>./art/steam.svg</path>
 			<pos>0.025 0.079</pos>
 			<maxSize>0.47 0.1</maxSize>
 			<origin>0 0.5</origin>
@@ -78,7 +67,7 @@
 		<image name="md_image">
 			<pos>0.025 0.22</pos>
 <!-- 			<size>0.12 0.301</size>
- -->			<maxSize>0.124 0.301</maxSize>
+ -->			<maxSize>0.12 0.301</maxSize>
 			<origin>0 0</origin>
 		</image>
 
