@@ -1,0 +1,66 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../simple.xml</include>
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./art/retropie_720.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/retropie.svg</path>
+        </image>
+		
+		<helpsystem name="help">
+			<textColor>ffffff66</textColor>
+			<iconColor>ffffff66</iconColor>
+		</helpsystem>
+		
+	</view>
+
+	<view name="basic, detailed">
+	
+		<text name="system_name_1" extra="true">
+			<text>RetroPie</text>
+			<forceUppercase>1</forceUppercase>
+			<size>0.45 0.08</size>
+			<pos>0.527 0.01</pos>
+			<color>7b7d7f</color>
+			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontSize>0.055</fontSize>
+			<alignment>right</alignment>
+		</text>
+		
+		<text name="system_name_2" extra="true">
+			<text>Configuration</text>
+			<forceUppercase>1</forceUppercase>
+			<size>0.45 0.08</size>
+			<pos>0.527 0.07</pos>
+			<color>7b7d7f</color>
+			<fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontSize>0.055</fontSize>
+			<alignment>right</alignment>
+		</text>
+
+		<image name="logo">
+			<path>./art/retropie.svg</path>
+			<pos>0.025 0.079</pos>
+			<maxSize>0.43 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+
+	</view>
+
+	<view name="basic">
+	
+		<textlist name="gamelist">
+			<pos>0.025 0.22</pos>
+			<size>0.950 0.68</size>
+			<alignment>center</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+		
+	</view>
+
+</theme>

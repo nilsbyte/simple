@@ -5,11 +5,11 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./art/tg16_art_blur.jpg</path>
+			<path>./art/pce_art_blur.jpg</path>
 		</image>
 
 		<image name="logo">
-			<path>./art/tg16_1.svg</path>
+			<path>./art/pce.svg</path>
         </image>
 		
 		<helpsystem name="help">
@@ -22,7 +22,7 @@
 	<view name="basic, detailed">
 	
 		<text name="system_name_1" extra="true">
-			<text>PC Engine/</text>
+			<text>NEC</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.01</pos>
@@ -33,7 +33,7 @@
 		</text>
 		
 		<text name="system_name_2" extra="true">
-			<text>TurboGrafx-16</text>
+			<text>PC Engine</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.07</pos>
@@ -44,7 +44,7 @@
 		</text>
 
 		<image name="logo">
-			<path>./art/tg16_1.svg</path>
+			<path>./art/pce.svg</path>
 			<pos>0.025 0.079</pos>
 			<maxSize>0.5 0.1</maxSize>
 			<origin>0 0.5</origin>
